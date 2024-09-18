@@ -63,13 +63,6 @@ Make sure to get your API key from [OpenWeatherMap](https://home.openweathermap.
 └── images/              # Contains weather condition images
 ```
 
-## Screenshots
-
-### Default View
-![Default](images/default_view.png)
-
-### Search Result
-![Search Result](images/search_result.png)
 
 ## Future Enhancements
 
